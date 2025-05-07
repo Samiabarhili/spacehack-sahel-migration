@@ -70,5 +70,6 @@ Données traitées :
 
 ## Liens utiles
 
+- 📄 [Voir la présentation complète (PDF)](./Sahel_Migration_SatelliteAnalysis.pdf)
 - [Sources de données](./sources.md)
 - [Site du hackathon](https://www.spacehack4sustainability.com/migration-sahelian-africa)
