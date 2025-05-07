@@ -1,4 +1,4 @@
-# SpaceHack 2024 – Migration environnementale en Afrique sahélienne
+# SpaceHack 2025 – Migration environnementale en Afrique sahélienne
 
 ## Équipe 
 
