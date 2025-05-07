@@ -1,4 +1,4 @@
-# Sources des données – SpaceHack 2024
+# Sources des données – SpaceHack 2025
 
 Toutes les données analysées dans le cadre de ce projet proviennent de bases satellitaires ouvertes et disponibles via *Google Earth Engine (GEE)*.
 
