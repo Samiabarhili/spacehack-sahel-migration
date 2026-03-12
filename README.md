@@ -5,7 +5,7 @@
 This project was developed during our **first hackathon**, tackling a real-world multidisciplinary challenge.
 
 **Team members:**  
-Wiame, Sagana, Hajar, Sanem, Bouchra, and Samia
+Wiame, Sagana, Hajar, Sanem, Bouchra and Samia
 
 ---
 
